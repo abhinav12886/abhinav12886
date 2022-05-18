@@ -5,8 +5,8 @@
 <!--   <a href="https://snehil.dev"  target="_blank"><img src="portfolio.svg"></a> -->
 <!--   <img src="https://badges.pufler.dev/visits/SneakySensei/SneakySensei?style=for-the-badge" /> -->
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav12886
-&theme=dark" />
+<!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav12886
+&theme=dark" /> -->
 
 ## About Me 👨‍🎓
 - 🌱 I’m currently learning Data Structures And Algorithms. 
@@ -16,7 +16,7 @@
 
 <br><br><br>
 <img src="https://snehil.dev/images/svg/python.svg" title="Python" height="32" width="32" />
-<img src="https://snehil.dev/images/svg/Php.svg" title="Php" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/php.svg" title="Php" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/xampp.svg" title="xampp" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/sql.svg" title="SQL" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/github.svg" title="GitHub" height="32" width="32" />
