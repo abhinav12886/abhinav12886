@@ -2,8 +2,8 @@
 <h3 align="center"></h3>
  <a href="https://www.linkedin.com/in/abhinav-kumar-sharma-5a7aa5159/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/_abhinav_.sharma/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<!--   <a href="https://snehil.dev"  target="_blank"><img src="portfolio.svg"></a>
-  <img src="https://badges.pufler.dev/visits/SneakySensei/SneakySensei?style=for-the-badge" /> -->
+  <a href="https://snehil.dev"  target="_blank"><img src="portfolio.svg"></a>
+  <img src="https://badges.pufler.dev/visits/SneakySensei/SneakySensei?style=for-the-badge" />
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav12886
 &theme=dark" />
