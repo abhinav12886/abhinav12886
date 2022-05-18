@@ -5,8 +5,8 @@
 <!--   <a href="https://snehil.dev"  target="_blank"><img src="portfolio.svg"></a> -->
 <!--   <img src="https://badges.pufler.dev/visits/SneakySensei/SneakySensei?style=for-the-badge" /> -->
 
-<!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav12886
-&theme=dark" /> -->
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav12886
+&theme=dark" />
 
 ## About Me 👨‍🎓
 - 🌱 I’m currently learning Data Structures And Algorithms. 
