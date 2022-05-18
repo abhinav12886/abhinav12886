@@ -18,7 +18,7 @@
 <img src="https://snehil.dev/images/svg/python.svg" title="Python" height="32" width="32" />
 <img src="https://www.php.net/images/logos/new-php-logo.svg" title="Php" height="39" width="49" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" title="xampp" height="32" width="49" />
-<img src="https://snehil.dev/images/svg/sql.svg" title="SQL" height="40" width="49" />
+<img src="https://snehil.dev/images/svg/sql.svg" title="SQL" height="50" width="60" />
 <img src="https://snehil.dev/images/svg/github.svg" title="GitHub" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/vscode.svg" title="VS Code" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/chrome.svg" title="Chrome Dev Tools" height="32" width="32" />
