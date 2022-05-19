@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Data Structures And Algorithms. 
 - 👯 I’m looking to intern Backend developer roles.
 - ⛏️ Working on my DSA and Problem Solving Skills
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinav-kumar-sharma-5a7aa5159/">Linkedin</a>, <a href="https://www.instagram.com/_abhinav_.sharma/">Instagram</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinav-sharma12886/">Linkedin</a>, <a href="https://www.instagram.com/_abhinav_.sharma/">Instagram</a>
 
 <br><br><br>
 <img src="https://snehil.dev/images/svg/python.svg" title="Python" height="50" width="50" />
