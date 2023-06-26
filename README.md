@@ -25,8 +25,8 @@
 <img src="https://snehil.dev/images/svg/css.svg" title="CSS" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/bootstrap.svg" title="Bootstrap" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/javascript.svg" title="JavaScript" height="32" width="32" />
-<img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" title="JavaScript" height="38" width="38" />
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" title="JavaScript" height="32" width="32" />
+<img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" title="JavaScript" height="50" width="50" />
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" title="JavaScript" height="50" width="50" />
 <br>
 
 <p align="center">
