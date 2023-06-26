@@ -25,7 +25,7 @@
 <img src="https://snehil.dev/images/svg/css.svg" title="CSS" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/bootstrap.svg" title="Bootstrap" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/javascript.svg" title="JavaScript" height="32" width="32" />
-<img src="[https://snehil.dev/images/svg/javascript.svg](https://static.djangoproject.com/img/logos/django-logo-positive.svg)" title="JavaScript" height="32" width="32" />
+<img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" title="JavaScript" height="32" width="32" />
 <br>
 
 <p align="center">
