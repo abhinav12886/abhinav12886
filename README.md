@@ -15,6 +15,8 @@
 
 <br><br><br>
 <img src="https://snehil.dev/images/svg/python.svg" title="Python" height="50" width="50" />
+<img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" title="Django" height="50" width="50" />
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" title="MongoDB" height="50" width="50" />
 <img src="https://www.php.net/images/logos/new-php-logo.svg" title="Php" height="39" width="49" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" title="xampp" height="32" width="49" />
 <img src="https://snehil.dev/images/svg/sql.svg" title="SQL" height="50" width="60" />
@@ -25,8 +27,6 @@
 <img src="https://snehil.dev/images/svg/css.svg" title="CSS" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/bootstrap.svg" title="Bootstrap" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/javascript.svg" title="JavaScript" height="32" width="32" />
-<img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" title="JavaScript" height="50" width="50" />
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" title="JavaScript" height="50" width="50" />
 <br>
 
 <p align="center">
