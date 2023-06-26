@@ -8,10 +8,9 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav12886
 &theme=dark" />
 
-## About Me 👨‍🎓
-- 🌱 I’m currently learning Data Structures And Algorithms. 
-- 👯 I’m looking to intern Backend developer roles.
-- ⛏️ Working on my DSA and Problem Solving Skills
+## About Me 👨‍🎓. 
+- 👯 I am currently working as a Backend Engineer intern 
+- ⛏️ Working on Python, Django, DSA and Problem Solving Skills
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abhinav-sharma12886/">Linkedin</a>, <a href="https://www.instagram.com/_abhinav_.sharma/">Instagram</a>
 
 <br><br><br>
@@ -26,6 +25,7 @@
 <img src="https://snehil.dev/images/svg/css.svg" title="CSS" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/bootstrap.svg" title="Bootstrap" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/javascript.svg" title="JavaScript" height="32" width="32" />
+<img src="[https://snehil.dev/images/svg/javascript.svg](https://static.djangoproject.com/img/logos/django-logo-positive.svg)" title="JavaScript" height="32" width="32" />
 <br>
 
 <p align="center">
